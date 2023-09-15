@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goptun&label=Profile%20views&color=0e75b6&style=flat" alt="goptun" /> </p>
                                                                                                                                        
-- 🌱 I’m currently learning **DEVinHouse / SENAI**
+- 🌱 I’m currently styding at **DEVinHouse / SENAI**
 
 - 💬 Ask me about **react**
 
