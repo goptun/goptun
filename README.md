@@ -1,7 +1,7 @@
 
 
-<h1 align="center">What's up 👋, I'm Matheus</h1>
-<h3 align="center">A web development student from Brazil</h3>
+<h1 align="center">Matheus</h1>
+<h3 align="center">Student from Brazil</h3>
 
 <img align="right" alt="Coding" width="300" src="https://s11.gifyu.com/images/SgIz8.gif">
 
