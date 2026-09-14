@@ -1,6 +1,6 @@
-# Olá, eu sou Matheus 👋
+# Matheus Ramos
 
-AI Engineer & Data Scientist | Python · SQL · DAX
+Especialista em BI | AI & Machine Learning
 
 Trabalho na interseção entre engenharia de IA, análise de dados e BI — desde pipelines e modelos até dashboards que geram decisão de negócio.
 
@@ -15,8 +15,7 @@ Trabalho na interseção entre engenharia de IA, análise de dados e BI — desd
 
 **[rag-knowledge-assistant](https://github.com/Sgoptun/rag-knowledge-assistant)** — Assistente RAG interno desenvolvido em equipe, com retrieval híbrido (vetorial + keyword), reranking e geração com citação de fontes. Base de conhecimento sintética (documentação de API + política interna de empresa fictícia), mas pipeline e infra reais — avaliado com métricas, não só "rodou sem erro".
 
-🔗 [Demo ao vivo](http://152.70.217.167:8000/) *(IP direto, sem HTTPS · limite de 8 req/min)*
-
+🔗 [Demo ao vivo](https://matheusramos.dev/projects/rag/) 
 ## 📈 GitHub stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Sgoptun&show_icons=true&theme=default)
@@ -24,4 +23,4 @@ Trabalho na interseção entre engenharia de IA, análise de dados e BI — desd
 
 ## 🔗 Contato
 
-[LinkedIn](https://linkedin.com/in/imatheusramos) · [Email](mailto:matheusramos.tech@gmail.com)
+[LinkedIn](https://linkedin.com/in/imatheusramos) · [Email](mailto:matheusramos.tech@gmail.com) · [Site](https://matheusramos.dev/projects/rag/)
