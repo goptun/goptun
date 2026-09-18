@@ -12,4 +12,4 @@ Profissional com mais de 10 anos de experiência em tecnologia, projetos e anál
 
 ## Contato
 
-[LinkedIn](https://linkedin.com/in/imatheusramos) · [Email](mailto:matheusramos.tech@gmail.com) · [Site](https://matheusramos.dev/projects/rag/)
+[LinkedIn](https://linkedin.com/in/imatheusramos) · [Email](mailto:contato@matheusramos.dev) · [Site](https://matheusramos.dev)
