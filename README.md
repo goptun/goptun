@@ -2,7 +2,7 @@
 
 Especialista em BI | AI & Machine Learning
 
-Trabalho na interseção entre engenharia de IA, análise de dados e BI — desde pipelines e modelos até dashboards que geram decisão de negócio.
+Profissional com mais de 10 anos de experiência em tecnologia, projetos e análise de negócios, atualmente especializado em AI Engineering, BI e automação. Atuação com Power BI, Python, SQL, Snowflake e n8n na construção de soluções analíticas, integrações com IA e otimização de processos.
 
 ## Stack
 
