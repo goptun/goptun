@@ -1,7 +1,5 @@
 # Matheus Ramos
 
-**AI Engineer | LLM, RAG, Agentes e ML | Python · SQL · Snowflake Cortex**
-
 Engenheiro de IA com base sólida em dados: construo agentes, RAG e sistemas com LLMs sobre dados corporativos, e os coloco em produção com avaliação e monitoramento. Hoje desenvolvo agentes analíticos com Snowflake Cortex sobre Semantic Views.
 
 ## Projetos
